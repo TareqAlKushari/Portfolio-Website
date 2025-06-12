@@ -8,7 +8,7 @@ A responsive and visually appealing portfolio website built using **HTML**, **CS
 > Homepage showcasing projects and skills.
 ![Screenshot](https://github.com/TareqAlKushari/Portfolio-Website/raw/main/Screenshot.png)
 
-Website is live at https://tareqalkushari.github.io/Portfolio-Website/
+Website is live at [https://tareqalkushari.github.io/Portfolio-Website/](https://tareqalkushari.github.io/Portfolio-Website/).
 ---
 
 ## 📌 Features
