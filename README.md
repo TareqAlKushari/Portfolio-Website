@@ -2,6 +2,10 @@
 
 A responsive and visually appealing portfolio website built using **HTML**, **CSS**, and **JavaScript**. This project showcases personal projects, skills, and contact information, providing a comprehensive overview of professional qualifications.
 
+## 📸 Demo
+
+![Screenshot](https://github.com/TareqAlKushari/Portfolio-Website/raw/main/Screenshot.png)
+> Homepage showcasing projects and skills.
 ![Screenshot](https://github.com/TareqAlKushari/Portfolio-Website/raw/main/Screenshot.png)
 
 ---
@@ -59,18 +63,16 @@ To run this project locally, you only need a modern web browser (e.g., Chrome, F
    └── README.md                  # Project documentation
    ```
 
-## 📸 Screenshots
-
-![Screenshot](https://github.com/TareqAlKushari/Portfolio-Website/raw/main/Screenshot.png)
-> Homepage showcasing projects and skills.
-
 ## 🤝 Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
 
 ## 📄 License
-This project is licensed under the [MIT License](LICENSE).
+This project is open-source and available under the MIT License.
 
 ## 📬 Contact
 For any inquiries or feedback, please contact [Tareq Al Kushari](https://github.com/TareqAlKushari).
 
 > Note: This portfolio is built primarily for educational and personal branding purposes. For production-level deployment, consider enhancements for SEO, accessibility, and performance.
+
+## Author
+Created by [@TareqAlKushari](https://github.com/TareqAlKushari).
