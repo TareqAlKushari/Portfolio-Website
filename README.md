@@ -1,6 +1,11 @@
-# 📁 Portfolio Website
+# 🌐 Personal Portfolio Website
 
-A responsive and visually appealing portfolio website built using **HTML**, **CSS**, and **JavaScript**. This project showcases personal projects, skills, and contact information, providing a comprehensive overview of professional qualifications.
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![MIT License](https://img.shields.io/github/license/TareqAlKushari/Portfolio-Website?style=flat-square)](LICENSE)
+
+> A sleek, responsive, and SEO-friendly personal portfolio website built using HTML, CSS, and JavaScript. This project showcases personal projects, skills, and contact information, providing a comprehensive overview of professional qualifications. Perfect for developers, engineers, designers, and creatives to showcase their work, skills, and contact information.
 
 ## 📸 Demo
 
